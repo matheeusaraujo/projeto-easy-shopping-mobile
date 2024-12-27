@@ -1,7 +1,11 @@
-<h1>Projeto - Easy Shopping Mobile</h1>
+<h1>Projeto - Easy Shopping Mobile </h1> 
 <br>
 <p>Este projeto é uma landing page responsiva para um site de compras, criada como parte da minha jornada de aprendizado em desenvolvimento web.
-O layout original somente desktop foi escrito durante uma palestra, e o objetivo deste projeto foi adaptá-lo para um design que funcionasse tanto em telas mobile quanto desktop, aplicando os conceitos de design responsivo.</p>
+O layout original somente desktop foi escrito durante uma palestra, e o objetivo deste projeto foi adaptá-lo para um design que funcionasse tanto em telas mobile quanto desktop, aplicando os conceitos de design responsivo.
+<br>
+<br>
+Para ver o projeto <a href="https://matheeusaraujo.github.io/projeto-easy-shopping-mobile/">Clique aqui</a></p>
+
 <br>
 <h2>Screenshots :camera:</h2>
 <img src="https://github.com/matheeusaraujo/projeto-easy-shopping-mobile/blob/master/img/Desktop.png?raw=true"/>
