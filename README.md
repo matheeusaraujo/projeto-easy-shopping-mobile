@@ -4,7 +4,7 @@
 O layout original somente desktop foi escrito durante uma palestra, e o objetivo deste projeto foi adaptá-lo para um design que funcionasse tanto em telas mobile quanto desktop, aplicando os conceitos de design responsivo.
 <br>
 <br>
-Para ver o projeto <a href="https://matheeusaraujo.github.io/projeto-easy-shopping-mobile/">Clique aqui</a></p>
+:bulb:<a href="https://matheeusaraujo.github.io/projeto-easy-shopping-mobile/"> Ver projeto </a></p>
 
 <br>
 <h2>Screenshots :camera:</h2>
